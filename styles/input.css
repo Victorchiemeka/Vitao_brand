@@ -1,0 +1,35 @@
+/* .btn {
+  display: flex;
+  justify-content: left;
+  justify-items: end;
+} */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(28, 28, 30);
+}
+.mycolor {
+  color: rgb(242, 242, 247);
+  font-weight: bold;
+}
+._color {
+  color: rgb(242, 242, 247);
+}
+.mycolor :hover {
+  color: blue;
+}
+
+.nav {
+  /* Other CSS styles for the specific navbar */
+  hr {
+    display: none;
+  }
+}
+
+.myoutline {
+  border-color: (242, 242, 247);
+}
+
+.my_img {
+  border-radius: 5px;
+}
